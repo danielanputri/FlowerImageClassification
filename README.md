@@ -8,8 +8,8 @@ Dataset merupakan data yang diambil dari [Kaggle](https://www.kaggle.com/dataset
 
 ## Grafik Akurasi dan Loss 
 
-<img src="" width="700">
+<img src="https://github.com/danielanputri/FlowerImageClassification/blob/main/image/evaluasi.png" width="700">
 
 
 ## Predict Example
-<img src="" width="700">
+<img src="https://github.com/danielanputri/FlowerImageClassification/blob/main/image/predict.png" width="700">
